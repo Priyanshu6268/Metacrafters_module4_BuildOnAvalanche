@@ -40,7 +40,7 @@ The contract should provide the following functionalities:
 
 ## Video Walkthrough
 
-[Watch the video walkthrough here](#) (Link to be added)
+[(https://www.loom.com/share/b2198bec47924eaf9d7941bea8ab4cc3)](#) 
 
 In the video, I will cover:
 - Licensing
